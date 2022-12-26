@@ -10,7 +10,12 @@ or
 ```console
 pkg install python3
 ```
+# Usage
+<b>
+cd ytdownload<br>
+python3 ytdw.py
+</b>
 
-#Info
-- this tools downloader was set for highest resolution.
-- soon...
+# Info
+- <i>this tools downloader was set for highest resolution.</i>
+- <i>soon...</i>
