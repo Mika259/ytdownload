@@ -1,2 +1,16 @@
 # ytdownload
 Simple youtube downloader
+
+# Requirements
+- python version 3 and upper
+```console
+sudo apt install python3
+```
+or
+```console
+pkg install python3
+```
+
+#Info
+- this tools downloader was set for highest resolution.
+- soon...
