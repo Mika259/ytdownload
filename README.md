@@ -11,7 +11,7 @@ pip install pytube
 sudo apt install python3
 ```
 or
-```console
+```shell
 pkg install python3
 ```
 # Usage
