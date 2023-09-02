@@ -3,9 +3,9 @@ Simple youtube downloader
 
 # Requirements
 - install requirement
-  ```
+```
 pip install pytube
-  ```
+```
 - python version 3 and upper
 ```
 sudo apt install python3
