@@ -3,11 +3,11 @@ Simple youtube downloader
 
 # Requirements
 - install requirement
-```code
+```console
 pip install pytube
 ```
 - python version 3 and upper
-```shell
+```console
 sudo apt install python3
 ```
 or
@@ -15,10 +15,12 @@ or
 pkg install python3
 ```
 # Usage
-<b>
-cd ytdownload<br>
+```
+cd ytdownload
+```
+```
 python3 ytdw.py
-</b>
+```
 
 # Info
 - <i>this tools downloader was set for highest resolution.</i>
